@@ -1,2 +1,2 @@
 # Swag-labs-
-Swag labs testing graduation project 
+As part of a quality assurance initiative, I conducted a comprehensive testing project on the Swag Labs e-commerce web application, which is commonly used for UI automation testing practice. The objective of this project was to validate the core functionalities of the website, ensure consistency across different user roles, and identify any critical bugs that may affect the user experience.
